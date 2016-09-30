@@ -5,7 +5,6 @@ Members
 
 Brandon Chavez
 Bryan Brent
-Brian Kidd
 Matthew Louchart
 Max Messenger Bouricius
 Hulaif Muhammad Ilyas
