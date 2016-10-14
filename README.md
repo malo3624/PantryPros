@@ -3,11 +3,11 @@ Team 4: The Brogrammers
 
 Members
 
-Brandon Chavez
-Bryan Brent
-Matthew Louchart
-Max Messenger Bouricius
-Hulaif Muhammad Ilyas
+Brandon Chavez, 
+Bryan Brent, 
+Matthew Louchart, 
+Max Messenger Bouricius, 
+Hulaif Muhammad Ilyas, 
 
 Description
 
