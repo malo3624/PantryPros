@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Pantry Pros</title>
+	<meta charset="utf-8" />
+	{% load staticfiles %}
+	<!-- the static 'css/bootstrap' references the whole of bootsrap-->
+	<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}" type = "text/css"/>
+</head>
+
+<body class="body" style="background-color:#f6f6f6">
+	<div>
+	   {% block content %}
+	   {% endblock %}
+	</div>
+</body>
+
+</html>
